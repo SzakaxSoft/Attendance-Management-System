@@ -1,0 +1,5 @@
+Name: John Dume
+School: Liverpool Blue Coat
+CNP: 1234567891234
+Math: 7.9, Enlglish: 9.1, History: 5.6Avarage: 7.533333333333334
+-----------------------------
